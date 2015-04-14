@@ -10,7 +10,7 @@ This starter app requires Node.js, Cordova and Ionic. Download the project folde
 cd /APP_PATH
 ionic serve
 ```
-To test the app in your browser. To test on a device, run:
+To test on a device, run:
 ```bash
 ionic platform add android
 ionic platform add ios
