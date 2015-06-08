@@ -20,11 +20,6 @@ ionic run ios
 ```
 
 ## Screenshots
-![Screenshot 1](https://github.com/AntonAI/Ionic-List-Enhanced/blob/master/images/image_1.png)
-
-![Screenshot 2](https://github.com/AntonAI/Ionic-List-Enhanced/blob/master/images/image_2.png)
-
-![Screenshot 3](https://github.com/AntonAI/Ionic-List-Enhanced/blob/master/images/image_3.png)
-
-.. image:: https://github.com/AntonAI/Ionic-List-Enhanced/blob/master/images/image_1.png
-   :scale: 50 %
+![Screenshot 1](/images/image_1.png?raw=true)
+![Screenshot 2](/images/image_2.png?raw=true)
+![Screenshot 3](/images/image_3.png?raw=true)
